@@ -19,7 +19,7 @@
   </div>
   
   
-  **Licença <br>
-Este projeto está licenciado sob a MIT License.**
+  <span>Licença: <br>
+    Este projeto está licenciado sob a MIT License.</span>
 </body>
 </html>
