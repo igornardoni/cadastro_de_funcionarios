@@ -17,5 +17,9 @@
     </ul>
     <p>Espero que você aproveite o sistema e que ele atenda às suas necessidades de gerenciamento de funcionários.</p>
   </div>
+  
+  
+  **Licença
+Este projeto está licenciado sob a MIT License.**
 </body>
 </html>
